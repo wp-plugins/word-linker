@@ -1,16 +1,18 @@
 === Word Linker ===
 Contributors: Cwantwm and DangerousPrototypes
 Donate link: http://www.dangerousprototypes.com
-Tags: Word, Linker, Dangerous Prototypes, Dangerousprototypes
+Tags: Word, Linker, Dangerous Prototypes, Dangerousprototypes, word linker
 Requires at least: 2.7
 Tested up to: 3.0
 Stable Tag: 0.0.1
+Version: 0.0.1
 
 Automatically link user defined words or sentances to a URL. Only the first match is replaced on each page.
 
 == Description ==
 
 Automatically link user defined words or sentances to a URL. Only the first match is replaced on each page.
+This plugin automatically links keywords in blog posts. It saves a ton of time for commonly linked terms.
 
 == Installation ==
 
