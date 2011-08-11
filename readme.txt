@@ -1,5 +1,5 @@
-=== Word Linker ===
-Contributors: Cwantwm and DangerousPrototypes
+=== Plugin Name ===
+Contributors: Cwantwm, DangerousPrototypes
 Donate link: http://www.dangerousprototypes.com
 Tags: word, linker, dangerous prototypes, dangerousprototypes, word linker, word-linker, hyperlink, automatically, links, words, post, posts, replace, keyword, keywords
 Requires at least: 2.7
@@ -29,10 +29,9 @@ screenshot-1.png
 == Changelog ==
 
 = 0.0.1 =
-
- Original Version
- updated to show in wordpress directory
+* First release
+* updated to show in wordpress directory
 
 == Upgrade Notice ==
 = 0.0.1 =
- This is the first release
+* first release
