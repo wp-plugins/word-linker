@@ -1,10 +1,10 @@
-=== Plugin Name ===
+=== Word Linker ===
 Contributors: Cwantwm, DangerousPrototypes
 Donate link: http://www.dangerousprototypes.com
 Tags: word, linker, dangerous prototypes, dangerousprototypes, word linker, word-linker, hyperlink, automatically, links, words, post, posts, replace, keyword, keywords
 Requires at least: 2.7
-Tested up to: 3.0
-Stable Tag: 0.0.1
+Tested up to: 3.2.1
+Stable Tag: 1.0
 
 Automatically link user defined words or sentances to a URL. Only the first match is replaced on each page.
 
@@ -21,16 +21,21 @@ This plugin automatically links keywords in blog posts. It saves a ton of time f
 
 == Frequently Asked Questions ==
 
+= Where Can I find the documentation? =
+
 See Docs at: http://dangerousprototypes.com/docs/Wordpress_plugin:_Word_Linker
 
 == Screenshots ==
-screenshot-1.png
+1. screenshot-1.png
 
 == Changelog ==
 
 = 0.0.1 =
 * First release
 * updated to show in wordpress directory
+
+= 1.0 =
+* Changed Version
 
 == Upgrade Notice ==
 = 0.0.1 =

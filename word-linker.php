@@ -5,7 +5,10 @@ Plugin URI: http://dangerousprototypes.com/docs/Wordpress_Word_Link_plugin
 Description: Replace words with anchored links, and automatically links keywords in blog posts. It saves a ton of time for commonly linked terms.
 Author: Rob Holmes/Ian Lesnet
 Author URI: http://www.cwantwm.co.uk, http://dangerousprototypes.com
-Version: 0.0.1
+Version: 1.0
+Requires at least: 2.8
+License: GPL
+
 */
 
 /*  Copyright 2011  Ian Lesnet/Rob Holmes  (Website : www.dangerousprototypes.com )
