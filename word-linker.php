@@ -8,7 +8,6 @@ Author URI: http://www.cwantwm.co.uk, http://dangerousprototypes.com
 Version: 1.0
 Requires at least: 2.8
 License: GPL
-
 */
 
 /*  Copyright 2011  Ian Lesnet/Rob Holmes  (Website : www.dangerousprototypes.com )
